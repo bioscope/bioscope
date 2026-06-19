@@ -1,28 +1,18 @@
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>BIOSCOPE</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap" rel="stylesheet">
-
-<link rel="stylesheet" href="/assets/css/style.css">
-
-</head>
-
-<body>
+---
+layout: default
+title: Home
+---
 
 <section class="hero">
 
 <video autoplay muted loop playsinline>
-    <source src="videos/bioscope-main.mp4" type="video/mp4">
+    <source src="{{ '/assets/videos/bioscope-main.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 <div class="overlay"></div>
 
 <header>
-    <img src="images/bioscope_logo.png" class="logo" alt="BIOSCOPE">
+    <img src="{{ '/assets/images/bioscope_logo.png' | relative_url }}" class="logo" alt="BIOSCOPE">
 
     <nav>
         <a href="#">HOME</a>
@@ -54,6 +44,3 @@ deep down into the dark rooms of our souls.
 </div>
 
 </section>
-
-</body>
-</html>
