@@ -60,7 +60,8 @@ Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영�
 <div class="profile">
 
 <h3>
-  이사 손재구 박사 Ph.D.
+  CFO Jake Sohn Ph.D.<br>
+  이사 손재구 박사
 </h3>
 
 <div class="profile-item">
