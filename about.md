@@ -4,11 +4,12 @@ title: About Us
 permalink: /about/
 ---
 
-<section class="about-philosophy">
+<section class="about-intro">
+
 
 <h1>ABOUT US</h1>
 
-<h2>"For the Benefit of the Client"</h2>
+<h2>For the Benefit of the Client</h2>
 
 <p>
 Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영역, 한계 등을 뜻하는 <i>scope</i>가 합쳐져 만들어진 단어이다.
@@ -20,14 +21,21 @@ Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영�
 
 </section>
 
-<section class="about">
-<div class="about-section">
-  <h3>DIRECTOR Andy Hwang Ph.D.</h3>
-  <h2>소장 앤디황 박사</h2>
-  <h3>학력</h3>
-  <p>
-    뉴욕공대NYIT 커뮤니케이션과를 졸업하고 미디어 생태학 분야 석학 닐 포스트만 Neil Postman의 지도하에 영화와 현대 기술의 발달이 인간의 도덕적 가치와 정신에 미치는 영향에 대하여 뉴욕대학교NYU 에서 석사학위를 받았다. 졸업 후 미국 골드만삭스Goldman Sachs & Co.에서 애널리스트Analyst로 근무했다. 귀국하여 연세대학교 상담·코칭학 전공으로 석사와 박사Ph.D. 학위를 받았다. 현재 바이오스코프Bioscope대표이자, 대학에서 학생들을 가르치며 영화와 미디어 그리고 상담심리 및 시네마코칭 분야에 관심을 두고 연구하고 있다. 영화심리치료 전문가 비르기트 볼츠Brigit Wolz 박사로부터 시네마테라피 자격증을 취득했다.
-  </p>
+<section class="profile-section">
+
+<h2>DIRECTOR Andy Hwang Ph.D.</h2>
+
+
+<div class="profile">
+
+
+<h2>소장 앤디황 박사</h2>
+
+<h3>학력</h3>
+<p>
+뉴욕공대NYIT 커뮤니케이션과를 졸업하고 미디어 생태학 분야 석학 닐 포스트만 Neil Postman의 지도하에 영화와 현대 기술의 발달이 인간의 도덕적 가치와 정신에 미치는 영향에 대하여 뉴욕대학교NYU 에서 석사학위를 받았다. 졸업 후 미국 골드만삭스Goldman Sachs & Co.에서 애널리스트Analyst로 근무했다. 귀국하여 연세대학교 상담·코칭학 전공으로 석사와 박사Ph.D. 학위를 받았다. 현재 바이오스코프Bioscope대표이자, 대학에서 학생들을 가르치며 영화와 미디어 그리고 상담심리 및 시네마코칭 분야에 관심을 두고 연구하고 있다. 영화심리치료 전문가 비르기트 볼츠Brigit Wolz 박사로부터 시네마테라피 자격증을 취득했다.
+</p>
+
 <h3>저서 및 역서</h3>
   <p>
     「영화를 보면 생기는 일」 공저(드림북, 2022)
