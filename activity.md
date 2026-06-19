@@ -48,7 +48,7 @@ May 2018
 <div class="activity-info">
 
 <p>
-JUL-SEP 2018
+JUL–SEP 2018
 </p>
 
 <p>
@@ -70,7 +70,7 @@ JUL-SEP 2018
 <div class="activity-info">
 
 <p>
-SEP-DEC 2018
+SEP–DEC 2018
 </p>
 
 <p>
@@ -160,7 +160,7 @@ HRD아트컨설팅
 <div class="activity-info">
 
 <p>
-JAN-FEB 2023
+JAN–FEB 2023
 </p>
 
 <p>
