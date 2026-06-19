@@ -187,17 +187,17 @@ nav a {
 }
 
 .activity-card h2 {
-    font-size:16px;
+    font-size:20px;
     margin-bottom:20px;
 }
 
 .activity-card > p {
-    font-size:14px;
+    font-size:16px;
     line-height:1.8;
 }
 .activity-info {
     margin-bottom:20px;
-    font-size:14px;
+    font-size:16px;
     line-height:1.8;
     color:#555;
 }
