@@ -2,15 +2,19 @@
 layout: default
 ---
 
-<div class="hero-header">
+<section class="hero">
+
+<video autoplay muted loop playsinline>
+    <source src="{{ '/assets/videos/bioscope-home.mp4' | relative_url }}" type="video/mp4">
+</video>
+
+<div class="overlay"></div>
+
 
 {% include header.html %}
 
-</div>
-
-
-<section class="hero">
 
 {{ content }}
+
 
 </section>
