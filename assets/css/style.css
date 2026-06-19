@@ -174,6 +174,20 @@ nav a {
     background:#fafafa;
 }
 
+.activity-list {
+    max-width:1000px;
+    margin:100px auto;
+    padding:0 20px;
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    gap:30px;
+}
+
+.activity-card {
+    border:1px solid #ddd;
+    padding:35px;
+}
+
 .activity-info {
     margin-bottom:20px;
     font-size:14px;
@@ -184,6 +198,8 @@ nav a {
 .activity-info p {
     margin:0;
 }
+
+
 
 .site-footer {
     padding: 30px 20px 20px;
