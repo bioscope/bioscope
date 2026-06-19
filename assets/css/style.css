@@ -159,6 +159,20 @@ nav a {
     color: #444;
 }
 
+.profile-item {
+    margin-bottom: 35px;
+}
+
+.profile-item h4 {
+    font-size: 16px;
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+.profile-item p {
+    line-height: 2;
+}
+
 
 .site-footer {
     padding: 35px 20px 20px;
