@@ -1,10 +1,126 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <title>Bioscope</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BIOSCOPE</title>
+
+<style>
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.hero video {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.55);
+}
+
+header {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 60px;
+}
+
+.logo {
+    height: 60px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
+
+.content {
+    position: absolute;
+    z-index: 5;
+    color: white;
+    left: 10%;
+    top: 55%;
+    transform: translateY(-50%);
+    max-width: 800px;
+}
+
+.content h1 {
+    margin-bottom: 40px;
+}
+</style>
 </head>
+
 <body>
-    <h1>Bioscope</h1>
-    <p>GitHub Pages 테스트</p>
+
+<section class="hero">
+
+<video autoplay muted loop playsinline>
+    <source src="videos/bioscope-main.mp4" type="video/mp4">
+</video>
+
+<div class="overlay"></div>
+
+<header>
+    <img src="images/bioscope_logo.png" class="logo" alt="BIOSCOPE">
+
+    <nav>
+        <a href="#">HOME</a>
+        <a href="#">ABOUT US</a>
+        <a href="#">PROGRAM</a>
+    </nav>
+</header>
+
+<div class="content">
+
+<h1>영화의 힘</h1>
+
+<p>
+어떤 형태의 예술도 영화처럼<br>
+우리의 평범한 의식을 넘어 감정에 곧바로 닿아<br>
+어스름한 영혼의 방 깊숙이 들어가지 않는다.
+</p>
+
+<br>
+
+<p>- 잉마르 베리만 -</p>
+
+<br><br>
+
+<p>
+No art passes our conscience in the way film does,<br>
+and goes directly to our feelings,<br>
+deep down into the dark rooms of our souls.
+</p>
+
+<br>
+
+<p>- Ingmar Bergman -</p>
+
+</div>
+
+</section>
+
 </body>
 </html>
