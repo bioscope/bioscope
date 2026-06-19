@@ -7,16 +7,13 @@ permalink: /activity/
 
 <section class="intro activity-page">
 
-<h1>ACTIVITY</h1>
-
-<p>OUR CLIENTS</p>
+<h1>OUR CLIENTS</h1>
 
 </section>
 
 
 
 <section class="activity-list">
-
 
 
 <div class="activity-card">
