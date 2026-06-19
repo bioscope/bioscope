@@ -4,12 +4,12 @@ title: About Us
 permalink: /about/
 ---
 
-<section class="about-intro">
+<section class="intro about-page">
 
 
 <h1>ABOUT US</h1>
 
-<h2>For the Benefit of the Client</h2>
+<h2>"For the Benefit of the Client"</h2>
 
 <p>
 Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영역, 한계 등을 뜻하는 <i>scope</i>가 합쳐져 만들어진 단어이다.
