@@ -16,43 +16,22 @@ permalink: /activity/
 <section class="activity-list">
 
 
+
 <div class="activity-card">
 
 <h2>
-  가습기살균제 피해자 대상<br>
-  집단 영화치료
+  청소년/성인/부부<br>
+  심리상담
 </h2>
 
 <div class="activity-info">
 
 <p>
-May 2018
+JUN 2020 – PRESENT
 </p>
 
 <p>
-북한산 생태탐방연수원
-</p>
-
-</div>
-
-</div>
-
-
-<div class="activity-card">
-
-<h2>
-  소방공무원 대상<br>
-  집단 영화치료
-</h2>
-
-<div class="activity-info">
-
-<p>
-JUL–SEP 2018
-</p>
-
-<p>
-북한산 생태탐방연수원
+심리상담연구소 행복나무
 </p>
 
 </div>
@@ -63,18 +42,64 @@ JUL–SEP 2018
 <div class="activity-card">
 
 <h2>
-  소방공무원 대상<br>
-  집단 영화치료
+  Cinema<br>
+  집단 상담코칭
 </h2>
 
 <div class="activity-info">
 
 <p>
-SEP–DEC 2018
+JAN–FEB 2023
 </p>
 
 <p>
-소백산 생태탐방원
+새중앙상담센터
+</p>
+
+</div>
+
+</div>
+
+
+
+<div class="activity-card">
+
+<h2>
+  Filmist Workshop<br>
+  Level 1
+</h2>
+
+<div class="activity-info">
+
+<p>
+FEB 2021
+</p>
+
+<p>
+HRD아트컨설팅
+</p>
+
+</div>
+
+</div>
+
+
+
+<div class="activity-card">
+
+<h2>
+  취업준비생 대상<br>
+  개인 심리상담
+</h2>
+
+<div class="activity-info">
+
+<p>
+FEB 2021
+</p>
+
+<p>
+창포종합사회복지관
 </p>
 
 </div>
@@ -107,18 +132,18 @@ OCT 2020
 <div class="activity-card">
 
 <h2>
-  취업준비생 대상<br>
-  개인 심리상담
+  소방공무원 대상<br>
+  집단 영화치료
 </h2>
 
 <div class="activity-info">
 
 <p>
-FEB 2021
+SEP–DEC 2018
 </p>
 
 <p>
-창포종합사회복지관
+소백산 생태탐방원
 </p>
 
 </div>
@@ -129,42 +154,40 @@ FEB 2021
 <div class="activity-card">
 
 <h2>
-  Filmist Workshop<br>
-  Level 1
+  소방공무원 대상<br>
+  집단 영화치료
 </h2>
 
 <div class="activity-info">
 
 <p>
-FEB 2021
+JUL–SEP 2018
 </p>
 
 <p>
-HRD아트컨설팅
+북한산 생태탐방연수원
 </p>
 
 </div>
 
 </div>
-
-
 
 
 <div class="activity-card">
 
 <h2>
-  Cinema<br>
-  집단 상담코칭
+  가습기살균제 피해자 대상<br>
+  집단 영화치료
 </h2>
 
 <div class="activity-info">
 
 <p>
-JAN–FEB 2023
+May 2018
 </p>
 
 <p>
-새중앙상담센터
+북한산 생태탐방연수원
 </p>
 
 </div>
