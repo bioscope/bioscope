@@ -28,7 +28,7 @@ body {
     background: rgba(0,0,0,0.55);
 }
 
-header {
+.site-header {
     position: relative;
     width: 100%;
     z-index: 10;
