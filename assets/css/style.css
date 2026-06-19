@@ -125,16 +125,11 @@ nav a {
     background:#f5f5f5;
 }
 
-.activity-page {
-    background:#fafafa;
-}
-
 .profile-section {
     max-width: 900px;
     margin: 100px auto;
     padding: 0 20px;
 }
-
 
 .profile-section h2 {
     text-align: center;
@@ -142,7 +137,6 @@ nav a {
     margin-bottom: 50px;
     letter-spacing: 1px;
 }
-
 
 .profile {
     padding: 30px 0;
@@ -174,6 +168,22 @@ nav a {
     line-height: 2;
 }
 
+
+
+.activity-page {
+    background:#fafafa;
+}
+
+.activity-info {
+    margin-bottom:20px;
+    font-size:14px;
+    line-height:1.8;
+    color:#555;
+}
+
+.activity-info p {
+    margin:0;
+}
 
 .site-footer {
     padding: 30px 20px 20px;
