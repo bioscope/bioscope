@@ -4,11 +4,10 @@ title: About Us
 permalink: /about/
 ---
 
-<section class="about">
+<section class="about-philosophy">
 
 <h1>ABOUT US</h1>
 
-<div class="about-section">
 <h2>"For the Benefit of the Client"</h2>
 
 <p>
@@ -18,8 +17,10 @@ Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영�
 인물, 사건 혹은 그 배경에 초점을 맞추는 과정에서 멀티 텍스트를 활용한다.
 우리는 영화를 통해 인간의 삶을 이해하고 영화에 비춰 인생의 과거, 현재, 미래를 통합할 수 있다.
 </p>
-</div>
 
+</section>
+
+<section class="about">
 <div class="about-section">
   <h3>DIRECTOR Andy Hwang Ph.D.</h3>
   <h2>소장 앤디황 박사</h2>
