@@ -95,25 +95,29 @@ nav a {
 
 
 .footer-inner {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 30px;
+    flex-direction: column;
+    gap: 15px;
 }
 
 
-.footer-brand h3 {
+.footer-brand {
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+
+.footer-brand strong {
     font-size: 18px;
     letter-spacing: 2px;
-    margin-bottom: 8px;
 }
 
 
-.footer-brand p {
-    font-size: 14px;
-    line-height: 1.6;
+.footer-brand span,
+.contact-info span {
+    margin: 0 8px;
 }
 
 
@@ -127,11 +131,6 @@ nav a {
 }
 
 
-.contact-info span {
-    margin: 0 8px;
-}
-
-
 .footer-contact a {
     text-decoration: none;
     color: inherit;
@@ -139,10 +138,11 @@ nav a {
 
 
 .footer-bottom {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 25px auto 0;
     text-align: center;
     font-size: 12px;
+    line-height: 1.8;
 }
 
 
@@ -162,16 +162,12 @@ nav a {
 }
     
 .footer-inner {
-    flex-direction: column;
     text-align: center;
 }
 
 
 .site-footer {
-    padding-top: 30px 20px 20px;
+    padding: 30px 20px 20px;
 }
 
-.contact-info span {
-        display: inline;
-    }
 }
