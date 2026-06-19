@@ -98,6 +98,60 @@ nav a {
     margin-top: 15px;
 }
 
+.about {
+
+    max-width: 900px;
+
+    margin: 0 auto;
+
+    padding: 120px 20px 100px;
+
+}
+
+
+.about h1 {
+
+    font-size: 42px;
+
+    letter-spacing: 4px;
+
+    margin-bottom: 100px;
+
+}
+
+
+
+.about-section {
+
+    padding: 50px 0;
+
+    border-bottom: 1px solid #ddd;
+
+}
+
+
+
+.about-section h2 {
+
+    font-size: 26px;
+
+    letter-spacing: 1px;
+
+    margin-bottom: 25px;
+
+}
+
+
+
+.about-section p {
+
+    font-size: 16px;
+
+    line-height: 2;
+
+    color: #444;
+
+}
 
 .site-footer {
     padding: 35px 20px 20px;
