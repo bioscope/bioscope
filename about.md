@@ -21,19 +21,67 @@ Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영�
 
 </section>
 
+
 <section class="profile-section">
 
 <div class="profile">
 
 <h3>
-  DIRECTOR Andy Hwang Ph.D.<br>
-  소장 앤디황 박사
+  대표/소장 손재구 박사 Ph.D.
 </h3>
 
 <div class="profile-item">
 <h4>학력</h4>
 <p>
-뉴욕공대NYIT 커뮤니케이션과를 졸업하고 미디어 생태학 분야 석학 닐 포스트만 Neil Postman의 지도하에 영화와 현대 기술의 발달이 인간의 도덕적 가치와 정신에 미치는 영향에 대하여 뉴욕대학교NYU 에서 석사학위를 받았다. 졸업 후 미국 골드만삭스Goldman Sachs & Co.에서 애널리스트Analyst로 근무했다. 귀국하여 연세대학교 상담·코칭학 전공으로 석사와 박사Ph.D. 학위를 받았다. 현재 바이오스코프Bioscope대표이자, 대학에서 학생들을 가르치며 영화와 미디어 그리고 상담심리 및 시네마코칭 분야에 관심을 두고 연구하고 있다. 영화심리치료 전문가 비르기트 볼츠Brigit Wolz 박사로부터 시네마테라피 자격증을 취득했다.
+  연세대학교 일반대학원 상담코칭학 박사 (Ph.D.)<br>
+  연세대학교 연합신학대학원 목회신학 석사 (M.Div.)<br>
+  연세대학교 금속공학사 (B.S.)
+</p>
+</div>
+
+<div class="profile-item">
+<h4>경력</h4>
+<p>
+  현) BIOSCOPE LLC 대표<br>
+  현) 개신대학원대학교 상담심리학과 겸임교수<br>
+  현) 새중앙상담센터 전문상담사<br>
+  현) 강남GEM아동가족상담센터 전문상담사<br>
+  전) 서울기독대학교 상담심리학과 겸임교수<br>
+  전) 사단법인 한국가족문화상담협회 사무국장<br>
+  전) 사단법인 한국상담서비스네트워크 초대사무국장<br>
+  전) 한국기독교상담심리학회 사무국장<br>
+  전) 심리상담 NCS 및 활용패키지 개발 연구원<br>
+  전) 가습기살균제 피해자 심리상담 참여연구원
+</p>
+</div>
+
+<div class="profile-item">
+<h4>자격</h4>
+<p>
+  전문상담사 1급/수련감독(16-p-10) 한국기독교상담심리학회<br>
+  가족상담전문가 수련감독(S-119) 사)한국가족문화상담협회<br>
+  EAP전문가 수련감독(EAPS-036) 사)한국가족문화상담협회<br>
+  K-KSEG 이고그램전문강사(10-020) 한국이고그램연구소
+</p>
+</div>
+
+</div>
+</section>
+
+
+<section class="profile-section">
+
+<div class="profile">
+
+<h3>
+  Andy Hwang Ph.D.<br>
+  앤디황 박사
+</h3>
+
+<div class="profile-item">
+<h4>학력</h4>
+<p>
+뉴욕공대NYIT 커뮤니케이션과를 졸업하고 미디어 생태학 분야 석학 닐 포스트만 Neil Postman의 지도하에 영화와 현대 기술의 발달이 인간의 도덕적 가치와 정신에 미치는 영향에 대하여 뉴욕대학교NYU 에서 석사학위를 받았다. 졸업 후 미국 골드만삭스Goldman Sachs & Co.에서 애널리스트Analyst로 근무했다. 귀국하여 연세대학교 상담·코칭학 전공으로 석사와 박사Ph.D. 학위를 받았다. 현재 서울장신대학교 자율전공학부 교수로 학생들을 가르치며 영화와 미디어 그리고 상담심리 및 시네마코칭 분야에 관심을 두고 연구하고 있다. 영화심리치료 전문가 비르기트 볼츠Brigit Wolz 박사로부터 시네마테라피 자격증을 취득했다.
 </p>
 </div>
 
@@ -55,58 +103,13 @@ Bioscope는 그리스어로 삶, 생명을 뜻하는 <i>bios</i>와 범위, 영�
 </div>
 </section>
 
-<section class="profile-section">
-
-<div class="profile">
-
-<h3>
-  이사 손재구 박사 Ph.D.
-</h3>
-
-<div class="profile-item">
-<h4>학력</h4>
-<p>
-  연세대학교 일반대학원 상담코칭학 박사 (Ph.D.)<br>
-  연세대학교 연합신학대학원 목회신학 석사 (M.Div.)<br>
-  연세대학교 금속공학사 (B.S.)
-</p>
-</div>
-
-<div class="profile-item">
-<h4>경력</h4>
-<p>
-  현) BIOSCOPE LLC 소장/CFO<br>
-  현) 개신대학원대학교 상담심리학과 겸임교수<br>
-  현) 새중앙상담센터 전문상담사<br>
-  현) 강남GEM아동가족상담센터 국장/운영위원<br>
-  전) 한국기독교상담심리학회 사무국장<br>
-  전) 사단법인 한국상담서비스네트워크 초대사무국장<br>
-  전) 사단법인 한국가족문화상담협회 사무국장<br>
-  전) 심리상담 NCS 및 활용패키지 개발 연구원<br>
-  전) 가습기살균제 피해자 심리상담 참여연구원
-</p>
-</div>
-
-<div class="profile-item">
-<h4>자격</h4>
-<p>
-  전문상담사 1급(16-p-10) 한국기독교상담심리학회<br>
-  가족상담전문가 수련감독(S-119) 사)한국가족문화상담협회<br>
-  EAP전문가 수련감독(EAPS-036) 사)한국가족문화상담협회<br>
-  K-KSEG 이고그램전문강사(10-020) 한국이고그램연구소
-</p>
-</div>
-
-</div>
-</section>
-
 
 <section class="profile-section">
 
 <div class="profile">
 
 <h3>
-  이사 임연재 박사 Ed.D.
+  임연재 박사 Ed.D.
 </h3>
 
 <div class="profile-item">
